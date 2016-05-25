@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Kyle Hiroyasu and I am a recent graduate from the University of Utah.
+I am interested in a career in data science and expanding my practical skillsets
+to improve the impact of my work.  I am currently interested in applying machine
+learning and data visualization to understand data.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+In my free time I enjoy skiing, rock climbing, and highlining.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+This website will primarily focus on data science topics and ideas I've come
+across. I plant to include projects and technologies that have piqued my
+interest.
